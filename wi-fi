@@ -1,0 +1,11 @@
+No WIFI Adapter Found
+_________________________________________
+
+First you have to connect your laptop with internet using USB tethring.
+
+After this Open terminal using Ctrl+Alt+t and type:-
+
+sudo apt-get install --reinstall bcmwl-kernel-source
+
+Then, reboot.
+

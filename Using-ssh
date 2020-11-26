@@ -1,0 +1,9 @@
+How to SSH into your WC2 instance using window..
+
+SSH is one of the most important function. It allows you to control a remote machine, all using the command line.
+
+we will configure all the required parameters necessary for doing SSH on Windows using the free tool Putty.
+
+1. Downlod Putty(suitable for your windows)
+2. Install Putty
+3. 
